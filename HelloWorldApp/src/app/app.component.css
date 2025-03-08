@@ -7,3 +7,11 @@ img{
 h1{
     text-align: center;
 }
+
+input{
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    border-color: black;
+    text-align: center;
+}
