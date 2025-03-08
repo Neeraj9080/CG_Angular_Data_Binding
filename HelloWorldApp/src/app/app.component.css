@@ -15,3 +15,13 @@ input{
     border-color: black;
     text-align: center;
 }
+
+.error-output{
+    display: block;
+    margin: 0 auto;
+    margin-left: 10px;
+    font-size: 13px;
+    font-style: italic;
+    color: red;
+    text-align: center;
+}
